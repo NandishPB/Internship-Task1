@@ -28,7 +28,7 @@ app.post('/sumbit', (req, res) => {
         <style>
         body{
         font-family:Arial,sans-serif;
-        background-color;#f4f4f9;
+        background-colo:#f4f4f9;
         display:flex;
         justify-content:center;
         align-items:center;
